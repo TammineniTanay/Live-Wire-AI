@@ -1,0 +1,7 @@
+*.mp3
+*.wav
+*.webm
+*.txt
+.env
+__pycache__/
+test_*.py
